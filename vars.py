@@ -4,9 +4,9 @@ import dotenv
 dotenv.load_dotenv()
 
 # bot informations
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-API_ID = int(os.environ.get("API_ID"))
-API_HASH = os.environ.get("API_HASH")
+BOT_TOKEN = os.environ.get("7139954634:AAEW1aa2oz5FTWHiOST5pqbAHXwqIBcyfpw")
+API_ID = int(os.environ.get("21366247"))
+API_HASH = os.environ.get("1d6666d32848a6878c191167a491205d")
 
 # chat details
 FROM_CHANNELS = set(int(x)
